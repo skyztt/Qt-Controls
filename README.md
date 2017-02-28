@@ -1,3 +1,2 @@
-# Qt-Controls
-custom qt controls
-##自定义qt tableview，支持整行调整顺序。
+# Qt-Tools
+##ThreadHelper 次线程运行任务的一个小的框架
